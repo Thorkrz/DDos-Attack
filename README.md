@@ -45,21 +45,21 @@ $ apt upgrade && apt update -y
 $ apt install git python -y
 $ pip install rich 
 $ git clone https://github.com/Thorkrz/DDos-Attack
-$ cd PortScanner
+$ cd DDos-Attack
 $ python3 ddos.py
 
 💻 Arch Linux
 $ pacman -Syyu git python -y
 $ pip install rich 
 $ git clone https://github.com/Thorkrz/DDos-Attack
-$ cd PortScanner
+$ cd DDos-Attack
 $ python3 ddos.py
 
 💻 OpenSUSE
 $ zypper install python git -y
 $ pip install rich 
 $  git clone https://github.com/Thorkrz/DDos-Attack
-$ cd PortScanner
+$ cd DDos-Attack
 $ python3 ddos.py
 ```
 
