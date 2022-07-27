@@ -4,7 +4,7 @@
 
 <p align="center" ><img alt="DDOS-ATTACK" src=""width=500></p>
 
-<h1 align="center">DDOS ATACKK</h1>
+<h1 align="center">DDOS AttackK</h1>
 <p align="center">
 
   
