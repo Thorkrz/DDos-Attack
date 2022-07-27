@@ -4,7 +4,7 @@
 
 <p align="center" ><img alt="DDOS-ATTACK" src="https://github.com/Thorkrz/DDos-Attack/blob/main/ddos_img.jpeg"width=500></p>
 
-<h1 align="center">DDOS AttackK</h1>
+<h1 align="center">DDOS Attack</h1>
 <p align="center">
 
   
